@@ -32,6 +32,7 @@ QUrl SteamApi::getUrlPlayer(QString neco)
     urlPhoto.setQuery(queryPhoto);
     queryPhoto.clear();
     return urlPhoto;
+    qDebug()<<urlPhoto << " dsadfasf";
 }
 
 void SteamApi::clear()

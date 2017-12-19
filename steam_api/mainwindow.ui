@@ -52,7 +52,7 @@
      <enum>QTabWidget::Triangular</enum>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>2</number>
     </property>
     <property name="movable">
      <bool>true</bool>
@@ -115,10 +115,10 @@
      <widget class="QLabel" name="label_photo">
       <property name="geometry">
        <rect>
-        <x>180</x>
-        <y>130</y>
-        <width>47</width>
-        <height>13</height>
+        <x>100</x>
+        <y>80</y>
+        <width>181</width>
+        <height>111</height>
        </rect>
       </property>
       <property name="text">
@@ -130,8 +130,8 @@
        <rect>
         <x>50</x>
         <y>20</y>
-        <width>47</width>
-        <height>13</height>
+        <width>351</width>
+        <height>16</height>
        </rect>
       </property>
       <property name="text">
@@ -143,8 +143,8 @@
        <rect>
         <x>70</x>
         <y>50</y>
-        <width>47</width>
-        <height>13</height>
+        <width>351</width>
+        <height>16</height>
        </rect>
       </property>
       <property name="text">
@@ -171,7 +171,7 @@
      <rect>
       <x>9</x>
       <y>28</y>
-      <width>94</width>
+      <width>141</width>
       <height>20</height>
      </rect>
     </property>
